@@ -27,7 +27,7 @@ latest_posts:
 ---
 Hi. I am Kaustubh Sharma, a junior pursuing B.Tech in Electrical Engineering at the Indian Institute of Technology Roorkee (IITR). My academic and research interests lie at the intersection of machine learning, generative AI, and mechanistic interpretability along with their scientific applications.
 
-Some of my recent work includes developing [sparse diffusion models](https://github.com/ojasvanema/Sparse-Diffusion-Learning-Latent-Distribution-in-High-Energy-Physics) for high-energy physics data from CERN , designing methods to prune domain-specific circuits from large language models [Inside LLMs](https://inside-llms.gitbook.io/surgical-domain-discovery), and exploring prior-fitted networks [PFNs] (https://github.com/heyysimarr/PFNs/tree/main) for few-shot uncertainty estimation. My research has been presented at conferences like ICLR and ICCV (upcoming), which still feels surreal.
+Some of my recent work includes developing [sparse diffusion models](https://github.com/ojasvanema/Sparse-Diffusion-Learning-Latent-Distribution-in-High-Energy-Physics) for high-energy physics data from CERN , designing methods to prune[domain-specific circuits from large language models](https://inside-llms.gitbook.io/surgical-domain-discovery), and exploring [prior-fitted networks](https://github.com/heyysimarr/PFNs/tree/main) for few-shot uncertainty estimation. My research has been presented at conferences like ICLR and ICCV (upcoming), which still feels surreal.
 
 Currently, I'm part of the Data Science Group at IITR and spend most of my time exploring generative models, probabilistic methods, and interpretability in AI. 
 
