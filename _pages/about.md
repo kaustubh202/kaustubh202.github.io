@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Undergraduate Machine Learning Enthusiast. Diffusion Models. Mechanistic Interpretability
+subtitle: Undergraduate Machine Learning Enthusiast. Research Assistant at [P-square Lab, IITR](https://psquare-lab.github.io/)
 
 profile:
   align: left
@@ -13,7 +13,7 @@ profile:
     <p>Harsil Valley, Gangotri</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
