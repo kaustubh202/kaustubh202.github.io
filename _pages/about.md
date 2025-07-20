@@ -25,12 +25,10 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hi. I am Kaustubh Sharma, a junior pursuing B.Tech in Electrical Engineering at the Indian Institute of Technology Roorkee (IITR). My academic and research interests lie at the intersection of machine learning, generative AI, and mechanistic interpretability along with their scientific applications.
+Hi. I am Kaustubh Sharma, a junior pursuing B.Tech in Electrical Engineering at the Indian Institute of Technology Roorkee (IITR). My academic and research interests lie at the intersection of machine learning, generative AI, mechanistic interpretability and its scientific applications.
 
-Some of my recent work includes developing [sparse diffusion models](https://github.com/ojasvanema/Sparse-Diffusion-Learning-Latent-Distribution-in-High-Energy-Physics) for high-energy physics data from CERN , designing methods to prune[domain-specific circuits from large language models](https://inside-llms.gitbook.io/surgical-domain-discovery), and exploring [prior-fitted networks](https://github.com/heyysimarr/PFNs/tree/main) for few-shot uncertainty estimation. My research has been presented at conferences like ICLR and ICCV (upcoming), which still feels surreal.
+Some of my recent work spans developing [sparse diffusion models](https://github.com/ojasvanema/Sparse-Diffusion-Learning-Latent-Distribution-in-High-Energy-Physics) for high-energy physics data from CERN , designing methods to prune [domain-specific circuits from large language models](https://inside-llms.gitbook.io/surgical-domain-discovery), and exploring [prior-fitted networks](https://github.com/heyysimarr/PFNs/tree/main) for few-shot uncertainty estimation. My research has been presented at conferences like ICLR and ICCV (upcoming), which still feels surreal.
 
-Currently, I'm part of the Data Science Group at IITR and spend most of my time exploring generative models, probabilistic methods, and interpretability in AI. 
+I'm also a part of the [Data Science Group](https://dsgiitr.in/) at IITR. Outside the world of code and equations, I find peace in music. I sing, play the piano, and often turn to music when I need to slow down and think clearly. I also represent my institute in athletics and swimming  - which adds a whole different rhythm to life.
 
-Outside the world of code and equations, I find peace in music. I sing, play the piano, and often turn to music when I need to slow down and think clearly. I also represent my institute in athletics and swimming  - which adds a whole different rhythm to life.
-
-If you're curious about my work, feel free to explore my projects or CV. And if you’d like to collaborate, chat, or just share a song recommendation - please say hi.
+If you're curious about my work, feel free to explore my projects or CV. And if you’d like to collaborate, chat, or just share a song recommendation - just say hi.
