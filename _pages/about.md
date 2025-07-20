@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Undergraduate Machine Learning Enthusiast. Research Assistant at [P-square Lab, IITR](https://psquare-lab.github.io/)
+subtitle: Undergraduate Machine Learning Enthusiast. Research Assistant at <a href = "https://psquare-lab.github.io/Team/"> P-square Lab, IITR </a>
 
 profile:
   align: left
