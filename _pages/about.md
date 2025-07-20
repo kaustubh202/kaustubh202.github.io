@@ -2,10 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Undergraduate Machine Learning Enthusiast. Diffusion Models. Mechanistic Interpretability
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -17,18 +17,21 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+Hi. I am Kaustubh Sharma, a junior pursuing B.Tech in Electrical Engineering at the Indian Institute of Technology Roorkee (IITR). My academic and research interests lie at the intersection of machine learning, generative AI, and mechanistic interpretability along with their scientific applications.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Some of my recent work includes developing [sparse diffusion models](https://github.com/ojasvanema/Sparse-Diffusion-Learning-Latent-Distribution-in-High-Energy-Physics) for high-energy physics data from CERN , designing methods to prune domain-specific circuits from large language models [Inside LLMs](https://inside-llms.gitbook.io/surgical-domain-discovery), and exploring prior-fitted networks [PFNs] (https://github.com/heyysimarr/PFNs/tree/main) for few-shot uncertainty estimation. My research has been presented at conferences like ICLR and ICCV (upcoming), which still feels surreal.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I'm part of the Data Science Group at IITR and spend most of my time exploring generative models, probabilistic methods, and interpretability in AI. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside the world of code and equations, I find peace in music. I sing, play the piano, and often turn to music when I need to slow down and think clearly. I also represent my institute in athletics and swimming  - which adds a whole different rhythm to life.
+
+If you're curious about my work, feel free to explore my projects or CV. And if you’d like to collaborate, chat, or just share a song recommendation - please say hi.
