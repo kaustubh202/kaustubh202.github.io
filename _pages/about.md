@@ -32,4 +32,4 @@ Some of my recent work spans developing [sparse diffusion models](https://github
 
 I'm also a part of the [Data Science Group](https://dsgiitr.in/) at IITR. Outside the world of code and equations, I find peace in music. I sing, play the piano, and often turn to music when I need to slow down and think clearly. I also represent my institute in athletics and swimming  - which adds a whole different rhythm to life.
 
-If you're curious about my work, feel free to explore my projects or CV. And if you’d like to collaborate, chat, or just share a song recommendation - just say hi.
+If you're curious about my work, feel free to explore my projects or CV. And if you’d like to collaborate, chat, or want to share a song recommendation - just say hi.
