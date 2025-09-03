@@ -132,6 +132,9 @@ external_sources:
 # -----------------------------------------------------------------------------
 # Newsletter
 # -----------------------------------------------------------------------------
+nav_external_links:
+  - title: "cv"
+    url: "assets/pdf/CV_9.pdf"
 
 newsletter:
   enabled: false
