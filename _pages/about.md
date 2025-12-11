@@ -42,4 +42,4 @@ My journey has been about late-night experiments, messy failures, and steady lea
 
 Other than research and acads, I am fond of good music. To take a break, I sing and play the piano. I'm in the swimming team at IITR and love travelling around!
 
-If you’re curious about my work, feel free to explore my projects or [CV](https://kaustubh202.github.io/assets/pdf/CV_11.pdf). And if you’d like to collaborate, chat, or want to share a song recommendation - just say hi. The contact details are on the top left.
+If you’re curious about my work, feel free to explore my projects or [CV](https://kaustubh202.github.io/assets/pdf/CV_11.pdf). And if you’d like to collaborate, chat, or want to share a song recommendation - just say hi - my contact details are on the top left.
