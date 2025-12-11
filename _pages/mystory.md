@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Story
+title: my story
 permalink: /story/
 nav: true
 nav_order: 4
