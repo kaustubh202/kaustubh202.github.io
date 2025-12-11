@@ -4,7 +4,7 @@ permalink: /repositories/
 title: repositories
 description: A short summary of some of my github repos
 nav: false
-nav_order: 4
+nav_order: 3
 ---
 
 {% if site.data.repositories.github_users %}

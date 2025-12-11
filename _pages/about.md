@@ -26,16 +26,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi — I’m **Kaustubh**, a junior at IIT Roorkee studying Electrical Engineering.  
+Hi — I’m Kaustubh, a junior at IIT Roorkee studying Electrical Engineering.  
 I am a curious undergrad researcher working mainly on **probabilistic modelling**, **mechanistic interpretability**, **foundation models**, and a few projects in generative modelling.
 
-**Current work:**  
-I’m am working in the [P-square lab](https://psquare-lab.github.io/Team/) with Prof. Parikshit. We worked on scaling **prior-fitted networks** to improve few-shot uncertainty estimation, by making a new attention mechanism based on the mathematical background of Gaussian Processes. ([Preprint](https://arxiv.org/abs/2509.20950)). [Code](https://github.com/PSquare-Lab/DVA-PFN). We are currently working on building a new Foundation Model for Amortized kernel hyperparameter discovery.
+Current work: 
+I’m am working in the [P-square lab](https://psquare-lab.github.io/Team/) with Prof. Parikshit. We worked on scaling prior-fitted networks to improve few-shot uncertainty estimation, by making a new attention mechanism based on the mathematical background of Gaussian Processes. ([Preprint](https://arxiv.org/abs/2509.20950)). [Code](https://github.com/PSquare-Lab/DVA-PFN). We are currently working on building a new Foundation Model for Amortized kernel hyperparameter discovery.
 
-**Mechanistic interpretability (what I care about):**  
+Mechanistic interpretability (what I care about):  
 I lead a small project with friends in the [Data Science Group](https://dsgiitr.in/) on mechanistic interpretabililty. We tried to find the specific roles of attention and MLP components in a large language model at the domain level. ([Preprint](https://drive.google.com/file/d/1PC4Vs4XI6fRZt_iHqw0NWSWsrwiHWPB9/view?usp=sharing)). We were initially searching for domain specific circuits in LLMs. ([Project Website](https://inside-llms.gitbook.io/surgical-domain-discovery)). 
 
-**Other projects & explorations:**  
+Other projects & explorations: 
 As a curious starter, I’ve worked on exploratory projects including applying diffusion methods to structured physics data in [Sparse diffusion models (CERN)](https://github.com/ojasvanema/Sparse-Diffusion-Learning-Latent-Distribution-in-High-Energy-Physics), diffusion models for personalized generation in [Image Alchemy](https://openreview.net/forum?id=wOh5cAM9qC) and [low-resolution media forensics](https://openaccess.thecvf.com/content/ICCV2025W/APAI/html/Sharma_Explainable_AI-Generated_Image_Forensics_A_Low-Resolution_Perspective_with_Novel_Artifact_ICCVW_2025_paper.html).
 
 My journey has been about late-night experiments, messy failures, and steady learning with friends.
