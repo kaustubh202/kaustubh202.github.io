@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Kaustubh Sharma",
-    "label": "Undergraduate Student",
+    "label": "Undergraduate Student / Researcher",
     "email": "kaustubh_s@ee.iitr.ac.in",
-    "url": "https://github.com/kaustubh202/",
-    "summary": "Electrical Engineering B.Tech student at IIT Roorkee with interests in mechanistic interpretability, diffusion models, and ML for science and engineering.",
+    "url": "https://kaustubh202.github.io",
+    "summary": "B.Tech (Electrical Engineering) student at IIT Roorkee (CGPA 9.04/10). Research interests and experience in mechanistic interpretability, diffusion models, Gaussian process inference, and ML for science & engineering. Author on multiple papers (ICCVW / ICLR workshops) and incoming quantitative research intern.",
     "location": {
       "city": "Roorkee",
       "countryCode": "IN",
@@ -14,26 +14,32 @@
       {
         "network": "GitHub",
         "username": "kaustubh202",
-        "url": "https://kaustubh202.github.io/"
+        "url": "https://github.com/kaustubh202/"
+      },
+      {
+        "network": "Personal Website",
+        "username": "kaustubh202",
+        "url": "https://kaustubh202.github.io"
       }
     ]
   },
   "work": [
     {
       "name": "P-square Lab, IIT Roorkee",
-      "position": "Research Assistant",
+      "position": "Undergraduate Research Assistant",
       "url": "https://psquare-lab.github.io/Team/",
       "startDate": "2025-05-01",
-      "summary": "Working on attention mechanism for Prior Data-Fitted Networks (PFNs).",
+      "endDate": "Present",
+      "summary": "Research on attention mechanisms for Prior-Data Fitted Networks (PFNs) and amortized kernel/hyperparameter inference for GP-style problems.",
       "highlights": [
-        "GP inference time reduction for physical equation solving",
-        "Scaling of PFNs"
+        "Developed Decoupled-Value Attention (DVA) for PFNs to accelerate GP inference for physical equation solving (code: PSquare-Lab/DVA-PFN).",
+        "Working on foundational architectures for amortized kernel hyperparameter inference and scaling PFNs."
       ]
     },
     {
       "name": "Goldman Sachs",
-      "position": "Incoming Quantitative Research Intern",
-      "summary": "Selected for the quantitative strategist internship involving financial modeling and statistical analysis."
+      "position": "Incoming Quantitative Research Intern (Quantitative Strategist)",
+      "summary": "Selected for the quantitative strategist internship involving financial modelling, statistical analysis and quantitative research. (Upcoming)"
     },
     {
       "name": "Edufabrica Pvt. Ltd.",
@@ -52,79 +58,97 @@
       "startDate": "2023-07-01",
       "endDate": "2027-06-01",
       "score": "9.04/10"
-    },
-    {
-      "institution": "St. Xavier’s School, Jaipur",
-      "area": "Senior Secondary (Class XII)",
-      "studyType": "CBSE",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "score": "97.6%"
-    },
-    {
-      "institution": "St. Xavier’s School, Jaipur",
-      "area": "Secondary (Class X)",
-      "studyType": "CBSE",
-      "startDate": "2020-06-01",
-      "endDate": "2021-06-01",
-      "score": "98.6%"
     }
   ],
   "awards": [
     {
       "title": "Micron AI Hackathon 2025 — Second Runner Up",
       "date": "2025-01-01",
-      "awarder": "Micron",
-      "summary": "Achieved second runner up position at Micron AI Hackathon 2025."
+      "awarder": "Micron Technology",
+      "summary": "Second Runner Up at Micron AI Hackathon 2025."
     },
     {
       "title": "JEE Advanced 2023",
       "date": "2023-06-01",
-      "awarder": "IIT",
-      "summary": "Secured AIR 1624 among 100k+ applicants."
+      "awarder": "IIT / Joint Entrance Examination",
+      "summary": "Secured All India Rank 1624 among 100k+ applicants."
     },
     {
       "title": "JEE Mains 2023",
       "date": "2023-05-01",
       "awarder": "NTA",
-      "summary": "Secured AIR 1898 among 1.2M+ applicants."
+      "summary": "Secured All India Rank 1898 among 1.2M+ applicants."
     },
     {
       "title": "NTSE Scholar 2021",
       "date": "2021-01-01",
       "awarder": "NCERT",
-      "summary": "Awarded NTSE scholarship; among top 2000 candidates from 900k+ applicants."
+      "summary": "Awarded NTSE scholarship; among top ~2000 candidates from ~900k+ applicants."
     },
     {
       "title": "KVPY Fellow 2022",
       "date": "2022-01-01",
-      "awarder": "IISc Bangalore",
-      "summary": "Secured AIR 509 among 200k+ applicants."
+      "awarder": "IISc Bangalore / KVPY",
+      "summary": "Secured AIR 509 among ~200k+ applicants; KVPY fellowship recipient."
     }
   ],
   "publications": [
     {
+      "name": "Dissecting Attention and MLP Roles: A Study of Domain Specialization in Large Language Models",
+      "publisher": "Under review (ICLR 2026)",
+      "releaseDate": "2026",
+      "url": "https://drive.google.com/file/d/1PC4Vs4XI6fRZt_iHqw0NWSWsrwiHWPB9/view?usp=sharing",
+      "summary": "First author (Kaustubh Sharma). Study on domain specialization in LLaMA 3-3B: forward pass profiling, probing, zero-out tests and analysis of fine-tuning shifts."
+    },
+    {
+      "name": "Decoupled-Value Attention for Prior-Data Fitted Networks: GP Inference for Physical Equations",
+      "publisher": "arXiv / Under review (ICLR 2026)",
+      "releaseDate": "2025-09",
+      "url": "https://arxiv.org/abs/2509.20950",
+      "summary": "First author (Kaustubh Sharma). Proposed DVA attention to improve Gaussian process inference speed/accuracy inside PFNs for physical equation solving."
+    },
+    {
       "name": "Explainable AI-Generated Image Forensics: A Low-Resolution Perspective with Novel Artifact Taxonomy",
-      "publisher": "APAI Workshop, ICCV",
+      "publisher": "APAI Workshop, ICCV 2025 (Proceedings)",
       "releaseDate": "2025",
-      "url": "https://openreview.net/forum?id=i7X88zyFYK",
-      "summary": "Developed robust interpretable pipeline for AI-generated image detection at 32×32 resolution with artifact taxonomy and explainability framework."
+      "url": "https://openaccess.thecvf.com/content/ICCV2025W/APAI/html/Sharma_Explainable_AI-Generated_Image_Forensics_A_Low-Resolution_Perspective_with_Novel_Artifact_ICCVW_2025_paper.html",
+      "summary": "Solo author (Kaustubh Sharma). Developed an interpretable pipeline for AI-generated image detection at low (32×32) resolution with an artifact taxonomy and explainability framework."
     },
     {
       "name": "Image-Alchemy: Advancing Subject Fidelity in Personalized Text-to-Image Generation",
-      "publisher": "DeLTa Workshop, ICLR",
+      "publisher": "DeLTa Workshop, ICLR 2025",
       "releaseDate": "2025",
       "url": "https://openreview.net/forum?id=wOh5cAM9qC",
-      "summary": "Designed pipeline for personalizing Stable Diffusion XL with high-fidelity subject integration, reduced overfitting and forgetting using LoRA and segmentation-guided Img2Img."
+      "summary": "First author (Kaustubh Sharma). Pipeline for personalizing Stable Diffusion XL improving subject fidelity using LoRA and segmentation-guided Img2Img to reduce overfitting/forgetting."
     }
   ],
   "skills": [
+    {
+      "name": "Technical Skills",
+      "keywords": [
+        "Python (PyTorch, Transformers, NumPy, Diffusion)",
+        "C++",
+        "Git / GitHub",
+        "Linux"
+      ]
+    },
     {
       "name": "Machine Learning",
       "keywords": [
         "Mechanistic Interpretability",
         "Diffusion Models",
-        "ML for Science and Engineering"
+        "Autoregressive Modelling",
+        "ML for Science & Engineering",
+        "Language Models"
+      ]
+    },
+    {
+      "name": "Mathematics & Statistics",
+      "keywords": [
+        "Probability Theory",
+        "Gaussian Processes",
+        "Optimization",
+        "Statistics"
       ]
     }
   ],
@@ -146,39 +170,52 @@
     {
       "name": "Music",
       "keywords": [
-        "Piano"
+        "Pianist (Music Section, IIT Roorkee)"
       ]
     },
     {
       "name": "Swimming",
       "keywords": [
+        "Member — IIT Roorkee Swimming Team",
         "Competitive Swimming"
       ]
     },
     {
       "name": "Data Science",
       "keywords": [
-        "Data Science Group — IIT Roorkee"
+        "Data Science Group — IIT Roorkee",
+        "Mechanistic interpretability projects"
       ]
     }
   ],
   "projects": [
     {
       "name": "Domain Circuit Discovery in LLMs - Mechanistic Interpretability",
-      "summary": "Investigating domain-specific knowledge emergence in LLaMA 3-3B; mapping domain-specific 'rooms' across transformer architecture.",
+      "summary": "Investigating domain-specific knowledge emergence in LLaMA 3-3B; mapping domain-specific 'rooms' across transformer architecture and evaluating causal effects, probe separability, zero-out tests, hydra effect and fine-tuning shifts.",
       "highlights": [
         "Forward pass profiling",
         "Probe separability",
         "Zero-out tests",
-        "Hydra effect",
-        "Fine-tuning shifts"
+        "Hydra effect analysis",
+        "Fine-tuning shift evaluation"
       ],
       "startDate": "2025-04-01",
       "url": "https://inside-llms.gitbook.io/surgical-domain-discovery"
     },
     {
+      "name": "Decoupled-Value Attention (DVA) for PFNs",
+      "summary": "Designed and implemented DVA attention to speed up GP-like inference in Prior-Data Fitted Networks for physical equation solving; codebase and experiments developed with P-square Lab collaborators.",
+      "highlights": [
+        "DVA attention design and implementation",
+        "GP inference time reduction for physical equation solving",
+        "Scaling PFNs"
+      ],
+      "startDate": "2025-05-01",
+      "url": "https://github.com/PSquare-Lab/DVA-PFN"
+    },
+    {
       "name": "Sparsity-Aware Representation Learning for Jet Image Generation via Guided Latent Diffusion",
-      "summary": "Developed sparsity-aware latent diffusion for jet images in high-energy physics with novel VAE and mean-pulling mechanism.",
+      "summary": "Sparsity-aware latent diffusion framework for generating high-energy physics jet images with a custom VAE and a mean-pulling mechanism to improve reconstruction quality.",
       "highlights": [
         "Custom VAE with sparsity reconstruction loss",
         "Latent diffusion mean-pulling mechanism"
@@ -186,5 +223,13 @@
       "releaseDate": "2025-01-01",
       "url": "https://github.com/ojasvanema/Sparse-Diffusion-Learning-Latent-Distribution-in-High-Energy-Physics"
     }
-  ]
+  ],
+  "additional": {
+    "technical_summary": "Python (PyTorch, Transformers, NumPy, Diffusion), C++. Research experience in interpretability, diffusion, Gaussian processes and scientific ML.",
+    "activities": [
+      "Pianist — Music Section (IIT Roorkee)",
+      "Member — IIT Roorkee Swimming Team",
+      "Data Science Group — IIT Roorkee"
+    ]
+  }
 }

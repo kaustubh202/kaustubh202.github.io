@@ -134,7 +134,7 @@ external_sources:
 # -----------------------------------------------------------------------------
 nav_external_links:
   - title: "cv"
-    url: "assets/pdf/CV_9.pdf"
+    url: "assets/pdf/CV_11.pdf"
 
 newsletter:
   enabled: false
