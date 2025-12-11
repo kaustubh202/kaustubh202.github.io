@@ -6,7 +6,7 @@ nav: true
 nav_order: 4
 ---
 
-Hi, I’m Kaustubh. This page is a simple version of how I got into machine learning and what shaped the way I work today. This is just my real story without much formalism.
+Hi, I’m Kaustubh. This page is a little more personal than my homepage. It’s about how I got into machine learning, the work I’ve done so far, the people who shaped me, and what all of this feels like from the inside.
 
 **Growing up**
 
@@ -33,7 +33,7 @@ We started with one question, didn’t get clean results, and pivoted to a bette
 _what exactly do attention and MLPs do at a higher level?_
 
 Through probes, fine-tuning analysis, and causal interventions, we found a story that made sense.  
-This project taught me how to lead a team, write clearly, and change direction when needed.
+This project taught me how to lead a team, write clearly, and change direction when needed. Interp is something I learned on my own with friends, so it feels like an open field where I’m still growing.
 
 **Other explorations**
 
@@ -47,6 +47,7 @@ I don’t call myself a “researcher” yet. I’m just a curious undergrad who
 
 **Looking forward**
 
-I don’t know my exact long-term path, but I want to keep working on problems that feel meaningful. Whether that’s PFNs, interpretability, or foundation models, I’m happy as long as I’m learning and building with good people.
+I don’t know my exact long-term path, but I want to keep working on problems that feel meaningful. Whether that’s PFNs, interpretability, or foundation models, I’m happy as long as I’m learning and building with good people. If there’s one thing I’ve learned so far, it’s that understanding takes time.
+
 
 Thanks for reading :)
