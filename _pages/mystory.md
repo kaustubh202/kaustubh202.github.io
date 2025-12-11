@@ -17,12 +17,10 @@ My actual entry into AI happened during a small Kaggle competition in my first y
 Joining the Data Science Group (DSG) at IITR changed everything. It gave me friends, projects, and late-night debugging sessions that made the field feel alive. We built toy models, asked “why does this behave like this?”, and learned by breaking things.
 
 **PFNs: the first-principles moment**
-One of the most meaningful projects for me has been our work on **prior-fitted networks** in P-square Lab with Prof. Parikshit and a friend.  
+One of the most meaningful projects for me has been our work on _prior-fitted networks_ in P-square Lab with Prof. Parikshit and a friend.  
 The original question was simple: *why don’t PFNs scale with dimensionality?*
 
-After trying many things, we stepped back and worked through the GP structure from first principles. Separating the x and y components (like in GPs) eventually led us to **Decoupled Value Attention (DVA)**. It scaled, matched theory, and the plots finally made sense. It felt like a genuine “this is why I want to do research” moment.
-
-I also gained a lot from working with Prof. Parikshit — he gave us space, trust, and guidance.
+After trying many things, we stepped back and worked through the GP structure from first principles. Separating the x and y components (like in GPs) eventually led us to *Decoupled Value Attention (DVA)*. It scaled, matched theory, and the plots finally made sense. It felt like a genuine “this is why I want to do research” moment.
 
 **Attention vs MLP: learning to lead**
 Another important experience was leading a project on how attention and MLP layers store domain-level information in LLMs.  
