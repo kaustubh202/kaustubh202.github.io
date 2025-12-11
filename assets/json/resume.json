@@ -4,7 +4,7 @@
     "label": "Undergraduate Student / Researcher",
     "email": "kaustubh_s@ee.iitr.ac.in",
     "url": "https://kaustubh202.github.io",
-    "summary": "B.Tech (Electrical Engineering) student at IIT Roorkee (CGPA 9.04/10). Research interests and experience in mechanistic interpretability, diffusion models, Gaussian process inference, and ML for science & engineering. Author on multiple papers (ICCVW / ICLR workshops) and incoming quantitative research intern.",
+    "summary": "B.Tech (Electrical Engineering) student at IIT Roorkee (CGPA 9.04/10). Research interests and experience in mechanistic interpretability, diffusion models, Gaussian process inference, and ML for science & engineering. Author on multiple papers (ICCV / ICLR workshops) and incoming quantitative research intern.",
     "location": {
       "city": "Roorkee",
       "countryCode": "IN",
@@ -95,14 +95,14 @@
   "publications": [
     {
       "name": "Dissecting Attention and MLP Roles: A Study of Domain Specialization in Large Language Models",
-      "publisher": "Under review (ICLR 2026)",
+      "publisher": "Under review",
       "releaseDate": "2026",
       "url": "https://drive.google.com/file/d/1PC4Vs4XI6fRZt_iHqw0NWSWsrwiHWPB9/view?usp=sharing",
       "summary": "First author (Kaustubh Sharma). Study on domain specialization in LLaMA 3-3B: forward pass profiling, probing, zero-out tests and analysis of fine-tuning shifts."
     },
     {
       "name": "Decoupled-Value Attention for Prior-Data Fitted Networks: GP Inference for Physical Equations",
-      "publisher": "arXiv / Under review (ICLR 2026)",
+      "publisher": "arXiv / Under review",
       "releaseDate": "2025-09",
       "url": "https://arxiv.org/abs/2509.20950",
       "summary": "First author (Kaustubh Sharma). Proposed DVA attention to improve Gaussian process inference speed/accuracy inside PFNs for physical equation solving."
