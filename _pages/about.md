@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi — I’m Kaustubh, a junior at IIT Roorkee studying Electrical Engineering.  
+Hi. I’m Kaustubh, a junior at IIT Roorkee studying Electrical Engineering.  
 I am a curious undergrad researcher working mainly on **probabilistic modelling**, **mechanistic interpretability**, **foundation models**, and a few projects in generative modelling.
 
 Current work: 
