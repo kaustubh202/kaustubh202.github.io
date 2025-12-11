@@ -29,7 +29,7 @@ latest_posts:
 Hi. I’m Kaustubh, a junior at IIT Roorkee studying Electrical Engineering.  
 I am a curious undergrad researcher working mainly on **probabilistic modelling**, **mechanistic interpretability**, **foundation models**, and a few projects in generative modelling.
 
-I’m working in the [P-square lab](https://psquare-lab.github.io/Team/) with Prof. Parikshit. Our recent work focuses on scaling **prior-fitted networks** for improved few-shot uncertainty estimation, using a new attention mechanism inspired by Gaussian Processes. ([Preprint](https://arxiv.org/abs/2509.20950), [Code](https://github.com/PSquare-Lab/DVA-PFN)).  
+I’m working in the [P-square lab](https://psquare-lab.github.io/Team/) with Prof. Parikshit. Our recent work focuses on scaling prior-fitted networks for improved few-shot uncertainty estimation, using a new attention mechanism inspired by Gaussian Processes. ([Preprint](https://arxiv.org/abs/2509.20950), [Code](https://github.com/PSquare-Lab/DVA-PFN)).  
 We are also building a foundation model for amortized kernel hyperparameter discovery.
 
 Mechanistic interpretability (something I really care about):  
