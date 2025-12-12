@@ -39,8 +39,6 @@ We initially began by searching for domain-specific circuits. ([Project Website]
 Other projects & explorations: 
 As a curious starter, I’ve worked on exploratory projects including applying diffusion methods to structured physics data in [Sparse diffusion models (CERN)](https://github.com/ojasvanema/Sparse-Diffusion-Learning-Latent-Distribution-in-High-Energy-Physics), diffusion models for personalized generation in [Image Alchemy](https://openreview.net/forum?id=wOh5cAM9qC) and [low-resolution media forensics](https://openaccess.thecvf.com/content/ICCV2025W/APAI/html/Sharma_Explainable_AI-Generated_Image_Forensics_A_Low-Resolution_Perspective_with_Novel_Artifact_ICCVW_2025_paper.html).
 
-My journey has been about late-night experiments, messy mistakes that taught me a lot, and steady learning with friends.
-
 Other than research and acads, I am fond of good music. To take a break, I sing and play the piano. I'm in the swimming team at IITR and love travelling around!
 
 If you’re curious about my work, feel free to explore my projects or [CV](https://kaustubh202.github.io/assets/pdf/CV_11.pdf). And if you’d like to collaborate, chat, or want to share a song recommendation - just say hi - my contact details are on the top left.

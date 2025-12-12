@@ -6,21 +6,21 @@ nav: true
 nav_order: 4
 ---
 
-Hi, I’m Kaustubh. This page is a little more personal than my homepage. It’s about how I got into machine learning, the work I’ve done so far, the people who shaped me, and what all of this feels like from the inside.
+Hi, I’m Kaustubh. This page is a little more personal than my homepage, it is like a backstory. It’s about how I got into machine learning, the work I’ve done so far, the people who shaped me, and what all of this feels like from the inside.
 
 **Growing up**
 
-I’m from Jaipur, and I studied at St. Xavier’s. In school, I was into public speaking, singing, quizzes, athletics and making friends. In school, I always enjoyed building small things and writing basic programs. JEE preparation took over for a while, and my world narrowed to that. Getting into IIT Roorkee felt like hitting reset.
+I’m from Jaipur, and I studied at St. Xavier’s. I was into debating, singing, quizzing, athletics and hanging out with friends. I always enjoyed building small things and writing basic programs, but then JEE preparation took over for a while, and my world narrowed to that. Getting into IIT Roorkee felt like hitting reset.
 
 **Discovering ML**
 
-My actual entry into AI happened during a small Kaggle competition in my first year. I didn’t know much, but I enjoyed understanding how models learned. I came in first, but that feeling is what pushed me into ML rather than leaderboard.
+My entry into AI wasn't planned as such. I joined a small Kaggle competition in my first year. I didn't really know what I was doing, but watching the model (I made) actually learn as logic emerged from noise hooked me. I happened to win, but the rank didn't matter as much as the curiosity it sparked.
 
-Joining the Data Science Group (DSG) at IITR changed everything. It gave me friends, projects, and late-night debugging sessions that made the field feel alive. We built toy models, asked “why does this behave like this?”, and learned by breaking things.
+That led me to the Data Science Group (DSG) on campus. This group defined my college life. It wasn't just a technical club; it was a tribe. We built toy models, broke them, argued over why they were broken, and fixed them together. That’s where I learned that research is a team sport.
 
 **PFNs: the first-principles moment**
 
-One of the most meaningful projects for me has been our work on _prior-fitted networks_ in P-square Lab with Prof. Parikshit and a friend.  
+One of the most meaningful projects for me has been our work on _prior-fitted networks_ in P-square Lab with Prof. Parikshit.  
 The original question was simple: *why don’t PFNs scale with dimensionality?*
 
 After trying many things, we stepped back and worked through the GP structure from first principles. Separating the x and y components (like in GPs) eventually led us to *Decoupled Value Attention (DVA)*. It scaled, matched theory, and the plots finally made sense. It felt like a genuine “this is why I want to do research” moment.
@@ -29,7 +29,7 @@ After trying many things, we stepped back and worked through the GP structure fr
 
 Another important experience was leading a project on how attention and MLP layers store domain-level information in LLMs.  
 
-We started with one question, didn’t get clean results, and pivoted to a better one:  
+To be honest, we started with the wrong question, didn't get clean results. But then we pivoted to a better one:  
 _what exactly do attention and MLPs do at a higher level?_
 
 Through probes, fine-tuning analysis, and causal interventions, we found a story that made sense.  
@@ -43,7 +43,7 @@ I also lead a small mechanistic interpretability group within DSG where we build
 
 **How I think about research**
 
-I don’t call myself a “researcher” yet. I’m just a curious undergrad who likes understanding things slowly and properly. I’ve had rejections and confusing days, but I enjoy the process: the moment when an equation makes sense after an hour of not making sense is still one of my favourite feelings.
+I don’t call myself a “researcher” yet. I’m just a curious undergrad who likes learning. I’ve had my set of rejections and confusing days, but I've learnt to enjoy the process: the moment when an equation makes sense after an hour of not making sense is still one of my favourite feelings.
 
 **Looking forward**
 
